@@ -18,4 +18,4 @@ bash run_assignment.sh
 
 ## GitHub
 Add your actual repository URL here after publishing:
-`https://github.com/YOUR_USERNAME/Python_and_Bash_Praveen`
+`https://github.com/ksspraveen/Python_and_Bash_Praveen`
