@@ -1,0 +1,2 @@
+Python file handling practice.
+This text was written using open() and write().
